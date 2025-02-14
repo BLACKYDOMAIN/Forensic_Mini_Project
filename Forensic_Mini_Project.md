@@ -94,6 +94,17 @@ Once the hidden data is extracted, the output must be analyzed to confirm the pr
 A successful extraction indicates that Steghide was used effectively, and no data was lost or altered during the process.  
 
 ---
+## Output Snapshots
+
+!(https://github.com/BLACKYDOMAIN/Forensic_Mini_Project/blob/main/assets/CF_1.png)  
+!(https://github.com/BLACKYDOMAIN/Forensic_Mini_Project/blob/main/assets/CF_3.png)  
+!(https://github.com/BLACKYDOMAIN/Forensic_Mini_Project/blob/main/assets/CF_4.png)  
+!(https://github.com/BLACKYDOMAIN/Forensic_Mini_Project/blob/main/assets/CF_5.png) 
+!(https://github.com/BLACKYDOMAIN/Forensic_Mini_Project/blob/main/assets/CF_6.png)  
+!(https://github.com/BLACKYDOMAIN/Forensic_Mini_Project/blob/main/assets/CF_7.png)  
+
+
+---
 
 ## Challenges  
 Several challenges may arise when using Steghide in forensic investigations:  
