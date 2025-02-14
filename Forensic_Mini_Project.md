@@ -96,12 +96,12 @@ A successful extraction indicates that Steghide was used effectively, and no dat
 ---
 ## Output Snapshots
 
-!(https://github.com/BLACKYDOMAIN/Forensic_Mini_Project/blob/main/assets/CF_1.png)  
-!(https://github.com/BLACKYDOMAIN/Forensic_Mini_Project/blob/main/assets/CF_3.png)  
-!(https://github.com/BLACKYDOMAIN/Forensic_Mini_Project/blob/main/assets/CF_4.png)  
-!(https://github.com/BLACKYDOMAIN/Forensic_Mini_Project/blob/main/assets/CF_5.png) 
-!(https://github.com/BLACKYDOMAIN/Forensic_Mini_Project/blob/main/assets/CF_6.png)  
-!(https://github.com/BLACKYDOMAIN/Forensic_Mini_Project/blob/main/assets/CF_7.png)  
+!(https://github.com/BLACKYDOMAIN/Forensic_Mini_Project/assets/CF_1.png)
+!(https://github.com/BLACKYDOMAIN/Forensic_Mini_Project/assets/CF_3.png)
+!(https://github.com/BLACKYDOMAIN/Forensic_Mini_Project/assets/CF_4.png)
+!(https://github.com/BLACKYDOMAIN/Forensic_Mini_Project/assets/CF_5.png)
+!(https://github.com/BLACKYDOMAIN/Forensic_Mini_Project/assets/CF_6.png)
+!(https://github.com/BLACKYDOMAIN/Forensic_Mini_Project/assets/CF_7.png)
 
 
 ---
